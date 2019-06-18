@@ -1,0 +1,9 @@
+Markdown Reader
+Adblock
+Dark Reader
+Keepa
+Grammar Check
+Momentum (new tabs visualizer)
+----------
+Reminders
+privacy content (robot framework issue)
