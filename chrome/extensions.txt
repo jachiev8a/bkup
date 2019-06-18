@@ -2,7 +2,7 @@ Markdown Reader
 Adblock
 Dark Reader
 Keepa
-Grammar Check
+Grammarly (Grammar Check)
 Momentum (new tabs visualizer)
 ----------
 Reminders
